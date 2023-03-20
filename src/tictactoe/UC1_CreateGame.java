@@ -1,6 +1,6 @@
 package tictactoe;
 
-public class CreateGame {
+public class UC1_CreateGame {
     private static char[] board = new char[10];
 
     static void startGame() {
